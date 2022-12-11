@@ -1,0 +1,1 @@
+-I/home/duosifan/tools/fftw3-3.3.10/include
