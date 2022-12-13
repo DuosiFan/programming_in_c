@@ -1,0 +1,12 @@
+* Input, output and file manipulation
+  1. FILE stream mode
+     | mode | action                 | stream        | remarks                              |
+     |------+------------------------+---------------+--------------------------------------|
+     | r    | read                   | begin of file | file must exist                      |
+     | r+   | read and write         | begin of file | file must exist                      |
+     | w    | write                  | begin of file | content erased if exist              |
+     | w+   | read and write         | begin of file | erased if exist otherwise created    |
+     | a    | write(append)          | end of file   | create if not exist                  |
+     | a+   | read and write(append) | end of file   | read at beginning if glibc is linked |
+     
+  2. 
