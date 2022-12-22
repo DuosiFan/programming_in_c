@@ -1,0 +1,14 @@
+Start logging
+
+Testing empty list
+PASSED
+
+Testing one element
+a = [1]
+PASSED
+
+Testing small array
+a = [38, 27, 43, 3, 9, 82, 10]PASSED
+
+End logging and close file.
+
